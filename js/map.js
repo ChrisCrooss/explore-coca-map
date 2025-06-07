@@ -25,7 +25,7 @@ L.marker([-0.4645, -76.9857]).addTo(map)
 L.marker([-0.4750, -76.7236]).addTo(map)
   .bindPopup("<b>Sacha Lodge Canopy Tower</b><br>Birdwatching from 30m above the rainforest floor.");
 
-L.marker([-0.4629, -76.9862]).addTo(map)
+L.marker([-0.4627, -76.9860]).addTo(map)
   .bindPopup(`
     <div style="font-family:sans-serif; font-size:14px; max-width:250px">
       <h3 style="margin:0; font-size:16px;">Parque Central El Coca</h3>
