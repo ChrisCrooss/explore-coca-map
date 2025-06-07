@@ -29,6 +29,11 @@ Explore Coca is a web-based interactive map designed to promote **sustainable to
 - Allow community submissions
 - Integrate eco-certification badges
 
+## 🔧 Utility Scripts
+
+- `utils/deploy.sh`: Automates project build + deployment to Netlify
+  
+
 ## 🧠 Author
 
 Built by V2Chris, from El Coca passionate about technology, sustainability, and helping his community through computer science.
