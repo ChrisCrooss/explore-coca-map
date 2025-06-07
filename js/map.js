@@ -12,6 +12,7 @@ L.marker([-0.4629, -76.9862]).addTo(map)
 // 1. Yasuní National Park Entrance
 L.marker([-1.067, -75.900]).addTo(map)
   .bindPopup("<b>Yasuní National Park</b><br>Explore one of the most biodiverse places on Earth with local eco-guides.");
+  .openPopup();
 
 // 3. Cuyabeno Wildlife Reserve Entry
 L.marker([-0.0128, -76.1330]).addTo(map)
